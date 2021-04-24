@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url('/pixelcloud.png');
+  background-image: url('./pixelcloud.png');
 }
 
 h1 {
